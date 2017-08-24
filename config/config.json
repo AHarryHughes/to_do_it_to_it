@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ahhughes8",
+    "password": null,
+    "database": "to_do_list",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ahhughes8",
+    "password": null,
+    "database": "to_do_list",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ahhughes8",
+    "password": null,
+    "database": "to_do_list",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
